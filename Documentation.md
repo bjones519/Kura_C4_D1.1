@@ -13,5 +13,4 @@ Deployment 1.1
 5. That error occurs due to flask not knowing where to look for resources such as templates and static files
 6. I changed the file named `app.py` to `application.py`, rezipped the files and deployed to Elastic Beanstalk and the Health status was ok
 
-
-
+![Deployment1.1](ElasticBeanstalk1.1.png)
